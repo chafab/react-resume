@@ -2,7 +2,7 @@
 
 ### [LIVE DEMO](https://chafab.github.io/resume/index.html)
 
-![img](https://github.com/chafab/react-resume/tree/master/public/images/img.jpg?raw=true)
+![img](https://raw.githubusercontent.com/chafab/react-resume/master/public/images/img.jpg)
 
 # About [`particles-bg`](https://github.com/lindelof/particles-bg) Library
 #### This project uses the react particle background component library [https://github.com/lindelof/particles-bg](https://github.com/lindelof/particles-bg). It's very simple. Anyone can be a Musketeer with it.
