@@ -1,0 +1,236 @@
+{
+  "main": {
+    "name":"Fabrice Chabance",
+    "description":"Experienced engineer with a Professional Scrum Master certification seeking a new challenge",
+    "image":"profilepic.png",
+    "bio":"Over 15 Years of software development experience in a wide variety of languages C++/C#/Java. As much as I love making new features for the projects I work for, I also love proposing new ideas to improve our team efficiency or  new features that could be beneficial to the customer.",
+    "github":"https://github.com/chafab/",
+    "address":{
+      "street":"春日町4-25-37",
+      "city":"練馬区",
+      "state":"東京都",
+      "zip": "179-0074"
+    },
+    "website": "http://www.timbakerdev.com",
+    "resumedownload":"http://timbakerdev.com",
+    "social":[
+      {
+        "name":"twitter",
+        "url":"https://twitter.com/FabriceChabance/",
+        "className":"fa fa-twitter"
+      },
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/chabance-fabrice-08971a13/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"instagram",
+        "url":"https://www.instagram.com/fab_jp_42/",
+        "className":"fa fa-instagram"
+      },
+      {
+        "name":"github",
+        "url":"https://github.com/chafab/",
+        "className":"fa fa-github"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"The grade provided for the skills below is based on how deep I know the language or the technology.",
+    "education":[
+      {
+        "school":"Graduate school of computer science (EPITA)",
+        "degree":"Majored in Cognitive Science and Advanced Computing",
+        "graduated":"Paris, France June 2005",
+        "description":"Learned C++/Java common data structures algorithm but also Metaheuristics, Machine learning algorithms such as Neural Networks, SVM, linear regression to name a few."
+      },
+      {
+        "school":"High school",
+        "degree":"Graduated with a diploma in Science",
+        "graduated":"June 2000"
+      }
+    ],
+    "work":[
+      {
+        "company":"MIZUHO, Tokyo, Japan",
+        "title":"Senior software engineer",
+        "years":"August 2018 - Present",
+        "description":"One of Japan’s largest bank, it currently holds more than 1.8 trillion dollars in assets.",
+        "bullets": [
+          "Developed new signals and created new automated trading strategies in C++.",
+          "Used machine learning with R to predict future performances of stocks.",
+          "Created a new UI application to help traders take decisions by visualizing signals.",
+          "Improved UI stability by using standard .NET unit testing frameworks and adding KPI to identify bottlenecks."
+        ],
+        "technos": "C#, C++, R, Python, Shell script, XML, SVN, Git, Jira"
+      },
+      {
+        "company":"BANK OF AMERICA MERRILL LYNCH, Tokyo, Japan",
+        "title":"Senior software engineer",
+        "years":"2014 - 2018",
+        "description":"The second largest bank holding company in the United States, it provides a wide range of services like M&A, and equity and debt capital markets.",
+        "bullets": [
+          "Accompanied the company in its process to become agile by actively participating and proposing new ideas during the different SCRUM events.",
+          "Developed a new level 2 market data feed handler in APAC.",
+          "Improved the Python test framework by developing new tests for order validation and index arbitrage. This decreased the loading time by more than 80% on 40 tests.",
+          "Revamped the Index Arbitrage strategy and the user interface to adapt to trader's needs. ",
+          "Added several commonly used tracking error optimization algorithms to the trading system.",
+          "Provided a detailed analysis of the sanity checks with automatically generated daily reports to the \nmanagement."
+        ],
+        "technos": "C#, C++, Java, Python, Oracle, Sybase, TCL, FIX, XML, SVN, Git, JIRA"
+      },
+      {
+        "company":"KONITIX, Osaka, Japan",
+        "title":"Director",
+        "years":"2012 - 2014",
+        "description":"A company of 4 employees established in Japan that provided online French lessons and mobile applications.",
+        "bullets": [
+          "Using Agile, we developed four mobile applications for iPhone and Android phones.",
+          "The website ranked second in Google search when the words “online French lessons” were used.",
+          "Adapted an eLearning solution to be compatible with Japanese and hosted servers on AWS."
+        ],
+        "technos": "C#, Flash Builder, PostgreSQL, PHP, HTML, Javascript, JSON, Dokeos, Mantis, AWS"
+      },
+      {
+        "company":"SOCIETE GENERALE, Tokyo Japan & Hong Kong China",
+        "title":"Quant Developer / Trader",
+        "years":"2007 - 2012",
+        "description":"One of the biggest banks in France, it has a presence in more than eighty countries with around 163,000 employees. The Corporate and Investment Banking branch tailors solutions for raising capital, financing, risk management, and investment.",
+        "bullets": [
+          "Used the LEAN feedback loop to maximize value with release frequencies ranging from two weeks to one day.",
+          "Improved PnL for existing high frequency strategies using backtesting and in house machine learning tools.",
+          "Managed high frequency IT performance projects to improve each system involved in the trading activity.",
+          "Proposed and developed new indicators, which were widely used by other traders.",
+          "Developed, enhanced, and tested high frequency systems for Asian markets",
+          "Shared research and development ideas with both the IT and the business teams."
+        ],
+        "technos": "C#, VBA, XML, Access, Tibco, CVS, Mantis"
+      },
+      {
+        "company":"GL TRADE, Paris, France",
+        "title":"Market Access Developer",
+        "years":"2007 - 2012",
+        "description":"One of the biggest banks in France, it has a presence in more than eighty countries with around 163,000 employees. The Corporate and Investment Banking branch tailors solutions for raising capital, financing, risk management, and investment.",
+        "bullets": [
+          "Used the LEAN feedback loop to maximize value with release frequencies ranging from two weeks to one day.",
+          "Improved PnL for existing high frequency strategies using backtesting and in house machine learning tools.",
+          "Managed high frequency IT performance projects to improve each system involved in the trading activity.",
+          "Proposed and developed new indicators, which were widely used by other traders.",
+          "Developed, enhanced, and tested high frequency systems for Asian markets",
+          "Shared research and development ideas with both the IT and the business teams."
+        ],
+        "technos": "C#, VBA, XML, Access, Tibco, CVS, Mantis"
+      }
+    ],
+    "skills":[
+      {
+        "name":"C#",
+        "level":"80%"
+      },
+      {
+        "name":"Java",
+        "level":"70%"
+      },
+      {
+        "name":"C++",
+        "level":"60%"
+      },
+      {
+        "name":"Python",
+        "level":"50%"
+      },
+      {
+        "name":"Tensorflow",
+        "level":"60%"
+      },
+      {
+        "name":"Java Spring Boot",
+        "level":"50%"
+      },
+      {
+        "name":"C# Wpf/DevExpress",
+        "level":"60%"
+      },
+      {
+        "name":"Postgresql, Oracle, Sybase",
+        "level":"60%"
+      },
+      {
+        "name":"Web technologies(React, html, css, javascript)",
+        "level":"60%"
+      }
+    ],
+    "certificates":[
+      {
+        "name":"Professional Scrum Master - PSM I",
+        "date": "June 2019",
+        "organization": "Scrum.org",
+        "URL":"https://www.scrum.org/user/513763"
+      },
+      {
+        "name":"Tensorflow Developer Certificate",
+        "organization": "Google",
+        "date": "Mars 2021",
+        "URL":"https://www.credential.net/fc6ae9f2-5993-4ffc-a3d6-88d06ac1e543"
+      },
+      {
+        "name":"AWS Certified Cloud Practitioner",
+        "organization": "Amazon Web Sercices(AWS)",
+        "date": "February 2021",
+        "URL":"https://www.credly.com/badges/4e7043c4-b458-4cf4-9e94-d5173b060539"
+      },
+      {
+        "name":"AWS Certified Developer - Associate",
+        "organization": "Amazon Web Sercices(AWS)",
+        "date": "February 2021",
+        "URL":"https://www.credly.com/badges/9939c872-2c09-4fcc-8e5e-5fb2704e080f"
+      },
+      {
+        "name":"Internal Control Manager",
+        "organization": "Japan Securities Dealer Association",
+        "date": "December 2018"
+      },
+      {
+        "name":"JSDA Class 1 Sales Representative",
+        "organization": "Japan Securities Dealer Association",
+        "date": "October 2018"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"E-Stat Japan",
+        "category":"Retrieve public Japan related statistics and store them as csvs",
+        "image":"01.jpg",
+        "url":"https://github.com/chafab/statjp"
+      },
+      {
+        "title":"React-Resume",
+        "category":"A resume in react made by tuning https://github.com/nordicgiant2/react-nice-resume",
+        "image":"02.jpg",
+        "url":"https://github.com/chafab/resume"
+      },
+      {
+        "title":"Yakushima",
+        "category":"View from one of the hinking course to see the Houmon Sugi",
+        "image":"03.jpg"
+      },
+      {
+        "title":"Hide Takayama",
+        "category":"One of the old house that can still be seen at Hide Takayama",
+        "image":"04.jpg"
+      },
+      {
+        "title":"Sunrise from top of Fuji san",
+        "category":"Taken after the Fuji-san hike",
+        "image":"05.jpg"
+      },
+      {
+        "title":"Tokyo tower",
+        "category":"Taken from Akabanebashi",
+        "image":"06.jpg"
+      }    ]
+  }
+}
